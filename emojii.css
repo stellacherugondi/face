@@ -1,0 +1,119 @@
+.face{
+
+    height: 250px;
+    width: 250px;
+    background-color: rgb(212, 178, 205);
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 30%;
+    position: relative;
+}
+.leye{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.reye{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: black;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.lpupil{
+    height: 20px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(251, 255, 249);
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.rpupil{
+    height: 20px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:white;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.lnose{
+    height: 15px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(197, 171, 201);
+    margin-left: 56px;
+    margin-top: 10px;
+}
+.rnose{
+    height: 15px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(197, 171, 201);
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.nose{
+    height: 50px;
+    width: 80px;
+    border-radius: 40%;
+    position: absolute;
+    background-color:rgb(0, 0, 0);
+    margin-left: 80px;
+    margin-top: 140px;
+}
+.mouth{
+    height: 15px;
+    width: 10px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(8, 8, 8);
+    margin-left: -15px;
+    margin-top: -15px;
+}
+.lear{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(197, 171, 201);
+    margin-left: 520px;
+    margin-top: -280px;
+}
+.rear{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(197, 171, 201);
+    margin-left: 750px;
+    margin-top: -280px;
+}
+.learball{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(17, 13, 1);
+    margin-left: 550px;
+    margin-top: -250px;
+}
+.rearball{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background-color:rgb(19, 15, 7);
+    margin-left: 760px;
+    margin-top: -250px;
+}
+
